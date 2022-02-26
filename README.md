@@ -1,7 +1,5 @@
 
 
-this project was created with proceeding with the course AJAX:add dynamic content to website 
+this project was created with proceeding with "Elzero.org" 
 
-https://www.linkedin.com/learning/ajax-with-php-add-dynamic-content-to-websites?contextUrn=urn%3Ali%3AlyndaLearningPath%3A57bdd8a292015ae4c0cb990f
-
-chapter 6
+https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t
